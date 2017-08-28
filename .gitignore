@@ -1,0 +1,14 @@
+
+*.o
+
+wifiGui
+
+moc_predefs\.h
+
+moc_pswindow\.cpp
+
+moc_scannerwindow\.cpp
+
+QtWpaGUI\.pro\.user
+
+Makefile
